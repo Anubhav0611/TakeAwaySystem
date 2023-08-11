@@ -1,0 +1,23 @@
+System Requirements:
+
+Technical Aspect
+
+The first consideration while developing systems is the compatibility of software and hardware. The process of selecting hardware and software starts with requirement analysis.  The software and the real system are distinguished in this section along with  all technologies and associated capabilities are specified according to the functional requirements. Implementation of fundamental functions, processes, and techniques is prepared. 
+
+Several of the fundamental needs, such as software and hardware, are as follows: -
+
+(i)	Requirements of Hardware:
+
+	Processor: Minimum Dual core processor. We can use a processor higher than it.
+	Ram: Minimum 1 GB or higher than it.
+	Hard disk: Minimum size of the hard disk is 80 GB.
+
+
+(ii)	Requirement of Software:
+
+	Technology: Technical languages I have used are Python &  Django.
+	Client-Side Technologies: HTML, CSS, JavaScript & Bootstrap.
+	Server-Side Technologies: Python is used as server-side technology.
+	Data Base Server: Sqlite inbuilt server is used for database purposes.
+	Operating System: Linux/ Microsoft Windows.
+	Integrated Development Environment(IDE): I have used Visual Studio code.
