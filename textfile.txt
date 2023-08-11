@@ -1,0 +1,4 @@
+ Aim 
+
+•To design a food ordering website, "Take Away System" (using Python, Django & SQLite) shorten the queue of customers waiting to place an order and provide businesses with a way to monitor their customer's orders & their buying behavior.
+This system helps the customers in locating items by category, pricing, and description. It is designed in such a way that all product updates can be viewed online from any place. The software will make it easier for the administrator to manage and update items on the website, as well as enabling buyers to compare and contrast different products quickly and easily.
